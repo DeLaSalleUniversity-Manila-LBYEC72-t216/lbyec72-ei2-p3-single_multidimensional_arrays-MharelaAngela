@@ -12,7 +12,6 @@ lbyec72-ei2-p3-single_multidimensional_arrays-MharelaAngela created by GitHub Cl
 ![](stat summation invalid.png)
 ![](matrix selection menu.png)
 ![](matrix addition.png)
-![](matrix addition invalid.png)
 ![](matrix multiplication.png)
 ![](matrix multiplication invalid.png)
 ![](matrix transpose.png)
